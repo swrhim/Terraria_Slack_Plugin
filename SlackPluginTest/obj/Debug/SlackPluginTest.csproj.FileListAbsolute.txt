@@ -1,0 +1,13 @@
+C:\Users\Daniel\Documents\GitHub\Terraria_Slack_Plugin\SlackPluginTest\bin\Debug\SlackPluginTest.dll
+C:\Users\Daniel\Documents\GitHub\Terraria_Slack_Plugin\SlackPluginTest\bin\Debug\SlackPluginTest.pdb
+C:\Users\Daniel\Documents\GitHub\Terraria_Slack_Plugin\SlackPluginTest\bin\Debug\SlackPlugin.dll
+C:\Users\Daniel\Documents\GitHub\Terraria_Slack_Plugin\SlackPluginTest\bin\Debug\tdsm.api.dll
+C:\Users\Daniel\Documents\GitHub\Terraria_Slack_Plugin\SlackPluginTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Daniel\Documents\GitHub\Terraria_Slack_Plugin\SlackPluginTest\bin\Debug\NLua.dll
+C:\Users\Daniel\Documents\GitHub\Terraria_Slack_Plugin\SlackPluginTest\bin\Debug\KopiLua.dll
+C:\Users\Daniel\Documents\GitHub\Terraria_Slack_Plugin\SlackPluginTest\bin\Debug\SlackPlugin.pdb
+C:\Users\Daniel\Documents\GitHub\Terraria_Slack_Plugin\SlackPluginTest\bin\Debug\tdsm.api.pdb
+C:\Users\Daniel\Documents\GitHub\Terraria_Slack_Plugin\SlackPluginTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Daniel\Documents\GitHub\Terraria_Slack_Plugin\SlackPluginTest\obj\Debug\SlackPluginTest.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\GitHub\Terraria_Slack_Plugin\SlackPluginTest\obj\Debug\SlackPluginTest.dll
+C:\Users\Daniel\Documents\GitHub\Terraria_Slack_Plugin\SlackPluginTest\obj\Debug\SlackPluginTest.pdb
