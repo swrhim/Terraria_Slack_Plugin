@@ -8,7 +8,7 @@ namespace SlackPluginTest {
         [TestMethod]
         public void TestMessage() {
             var client = new SlackClient("");
-            client.SendMessage("", "", "");
+            client.SendMessage("", "", "","");
         }
     }
 }

@@ -22,11 +22,12 @@ namespace SlackPlugin {
             webHookUrl = new Uri(webhook);
 	    }
 
-        public void SendMessage(string text, string username, string channel) {
+        public void SendMessage(string text, string username, string channel, string icon_emoji) {
             var payload = new Payload {
                 Channel = channel,
                 UserName = username,
-                Text = text
+                Text = text,
+                IconEmoji = icon_emoji
             };
 
             string json = JsonConvert.SerializeObject(payload);
@@ -51,5 +52,8 @@ namespace SlackPlugin {
 
         [JsonProperty("text")]
         public string Text { get; set; }
+
+        [JsonProperty("icon_emoji")]
+        public string IconEmoji { get; set; }
     }
 }
