@@ -9,3 +9,5 @@ look up slack webhook url in google!
 
 Build the project, then drop the SlackPlugin.dll in the Plugins folder of TDSM. You must ALSO take the newtonsoft.json dll
 and put it in the main directory of TDSM. 
+
+[![ghit.me](https://ghit.me/badge.svg?repo=swrhim/Terraria_Slack_Plugin)](https://ghit.me/repo/swrhim/Terraria_Slack_Plugin)
